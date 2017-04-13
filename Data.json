@@ -1,0 +1,7 @@
+[{"Id":1,"Address":3728,"Street":"Fishcreek Rd","Side":"Front","Site":1,"Species":"Acer Rubrum","Dbh":21,"Condition":"Good"},
+{"Id":2,"Address":3728,"Street":"Fishcreek Rd","Side":"Front","Site":2,"Species":"Acer Rubrum","Dbh":18,"Condition":"Fair"},
+{"Id":3,"Address":3728,"Street":"Fishcreek Rd","Side":"Front","Site":3,"Species":"Acer Rubrum","Dbh":19,"Condition":"Poor"},
+{"Id":4,"Address":3728,"Street":"Fishcreek Rd","Side":"Front","Site":3,"Species":"Vacant Planting Site","Dbh":0,"Condition":"N/A"},
+{"Id":5,"Address":3728,"Street":"Fishcreek Rd","Side":"Front","Site":4,"Species":"Acer Rubrum","Dbh":20,"Condition":"Dead"},
+{"Id":6,"Address":3738,"Street":"Fishcreek Rd","Side":"Front","Site":1,"Species":"Vacant Planting Site","Dbh":0,"Condition":"N/A"},
+{"Id":7,"Address":3738,"Street":"Fishcreek Rd","Side":"Front","Site":1,"Species":"Fraxinus spp.","Dbh":12,"Condition":"Dead"}]

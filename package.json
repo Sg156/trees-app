@@ -1,0 +1,26 @@
+{
+  "name": "trees",
+  "version": "1.0.0",
+  "description": "Simple App to Display a Grid of Trees",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "trees",
+    "Angular",
+    "UI",
+    "Grid"
+  ],
+  "author": "Sri Kavya Golla",
+  "license": "MIT"
+}
